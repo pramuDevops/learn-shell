@@ -1,3 +1,3 @@
 # learn-shell
 
-sample code
+sample repos
